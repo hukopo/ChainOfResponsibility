@@ -1,0 +1,11 @@
+C:\Users\holkin\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.0\ChainOfResponsibility.exe
+C:\Users\holkin\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.0\ChainOfResponsibility.deps.json
+C:\Users\holkin\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.0\ChainOfResponsibility.runtimeconfig.json
+C:\Users\holkin\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.0\ChainOfResponsibility.runtimeconfig.dev.json
+C:\Users\holkin\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.0\ChainOfResponsibility.dll
+C:\Users\holkin\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.0\ChainOfResponsibility.pdb
+C:\Users\holkin\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.0\ChainOfResponsibility.csprojAssemblyReference.cache
+C:\Users\holkin\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\holkin\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.0\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\holkin\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.0\ChainOfResponsibility.dll
+C:\Users\holkin\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.0\ChainOfResponsibility.pdb

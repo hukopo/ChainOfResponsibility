@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\holkin\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\holkin\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ChainOfResponsibility.1920075268.00" t="ExcludeRecursive" />
+    <e p="C:\Users\holkin\RiderProjects\ChainOfResponsibility" t="IncludeFlat">
+      <e p="ChainOfResponsibility" t="IncludeRecursive">
+        <e p="Bancomat.cs" t="Include" />
+        <e p="Banknote.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ChainOfResponsibility.csproj" t="IncludeRecursive" />
+        <e p="CurrencyType.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="BanknoteHandler.cs" t="Include" />
+          <e p="BanknoteHandlerBase.cs" t="Include" />
+          <e p="FiftyDollarHandler.cs" t="Include" />
+          <e p="HundredDollarHandler.cs" t="Include" />
+          <e p="OneEurHandler.cs" t="Include" />
+          <e p="TenDollarHandler.cs" t="Include" />
+          <e p="TenRubleHandler.cs" t="Include" />
+        </e>
+        <e p="IBanknote.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="ChainOfResponsibility.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="ChainOfResponsibility.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
